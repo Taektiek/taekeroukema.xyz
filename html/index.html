@@ -4,8 +4,13 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <meta charset="utf-8">
     <title>De website van Taeke Roukema</title>
+    <style>
+    .mr-1 {
+      margin-left: ($spacer * .25) !important;
+    }
+    </style>
   </head>
-  <body class="bg-secondary">
+  <body class="bg-secondary d-flex flex-column">
     <div class="jumbotron jumbotron-fluid bg-dark">
       <div class="container text-light">
         <div class="row">
@@ -33,6 +38,13 @@
         </div>
       </div>
     </div>
-
+    <div class="fixed-bottom">
+      <footer id="sticky-footer" class="py-3 bg-dark text-white-50">
+        <div class="container text-center" >
+            <a href="https://www.youtube.com/channel/UCutnsBPz0ocEZKmMF4K5DpQ"><img class="mr-3" src="icons/youtube.png" height=20></a>
+            <a href="http://searx.taekeroukema.xyz/"><img src="icons/searx.png" height=20></a>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>
