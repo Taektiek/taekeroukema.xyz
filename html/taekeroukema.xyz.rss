@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Taeke Roukema</title>
+    <link>taekeroukema.xyz</link>
+    <description>Taeke Roukema's RSS feed</description>
+    <language>en-us</language>
+    <managingEditor>taeke@taekeroukema.xyz</managingEditor>
+    <webMaster>taeke@taekeroukema.xyz</webMaster>
+    <item>
+      <title>De eerste post in mijn RSS-feed</title>
+      <pubDate>Sat, 20 Jun 2020 16:58:29 +0200</pubDate>
+      <author>taeke@taekeroukema.xyz</author>
+      <description><![CDATA[Ik heb besloten om een RSS-feed te maken. Deze laat ik nu zien.]]></description>
+    </item>
+  </channel>
+</rss>
